@@ -1,0 +1,31 @@
+<person> 
+  <name>k shailaja </name>
+  <dob> 1996-27-03 </dob>
+ <address>
+        <address-line1> vidaya nagar colony </address-line1>
+        <address-line2> ameenpur road </address-line2>
+        <street> suraksha colony </street>
+        <city> sangareddy </city>
+ </address>
+</person>
+
+
+<person> 
+  <name>k shailaja </name>
+  <dob> 1996-27-03 </dob>
+  <address>
+       <homeaddress>
+            <address-line1> vidaya nagar colony </address-line1>
+            <address-line2> ameenpur road </address-line2>
+            <street> suraksha colony </street>
+            <city> sangareddy </city>
+     </homeaddress> 
+
+        <officeaddress>
+            <address-line1> vidaya nagar colony </address-line1>
+            <address-line2> ameenpur road </address-line2>
+            <street> suraksha colony </street>
+            <city> sangareddy </city>
+     </officeaddress> 
+   </address>
+</person>

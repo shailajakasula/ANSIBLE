@@ -1,0 +1,32 @@
+{
+    "name" : "shailaja",
+    "dob" : "27/03/1996",
+    "address" {
+                "address-line1" : "ameenpur road",
+                "address-line2" : "chandanagr",
+                "strret" : "vidyanagar colony",
+                "city" : "sangareddy"
+    }
+}
+
+
+{
+    "name" : "shailaja",
+    "dob" : "27/03/1996",
+    "address" [
+            {   "address-line1" : "ameenpur road",
+                "address-line2" : "chandanagr",
+                "strret" : "vidyanagar colony",
+                "city" : "sangareddy",
+                "type" : "home"
+            },   
+
+            {
+                "address-line1" : "ameenpur road",
+                "address-line2" : "chandanagr",
+                "strret" : "vidyanagar colony",
+                "city" : "sangareddy"
+           }
+      ]
+
+}

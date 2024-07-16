@@ -1,0 +1,22 @@
+- name: shailaja
+  dob: 27-03-1996
+  address:
+    addrres-line1: chandanagar
+    addrres-line2: ameenpur road
+    city : hyd
+   email : join @deops.com 
+
+
+- name: shylu
+  dob: 27-03-1996
+  address:
+   - addrres-line1: chandanagar
+    addrres-line2: ameenpur road
+    city : hyd
+    email : join @deops.com 
+
+    - addrres-line1: chandanagar
+    addrres-line2: ameenpur road
+    city : hyd
+   email : join @deops.com 
+
