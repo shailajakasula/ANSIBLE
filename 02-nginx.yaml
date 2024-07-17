@@ -1,7 +1,7 @@
-- name: ping play book
+- name : ping play book
   hosts : web
-  tasks :
   become : yes
+  tasks :
   - name : install nginx package 
      ansible.builtin.package:
         name : nginx
